@@ -1,0 +1,13 @@
+langgraph>=0.2
+langchain-google-genai>=2.0
+langchain-core>=0.3
+pydantic>=2.7
+python-dotenv>=1.0
+requests>=2.32
+yfinance>=0.2.40
+rank-bm25>=0.2.2
+faiss-cpu>=1.8
+numpy>=1.26
+sentence-transformers>=3.0   # cross-encoder reranker
+beautifulsoup4>=4.12         # strip HTML from 10-K filings
+pytest>=8.0
